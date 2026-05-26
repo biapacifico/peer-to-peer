@@ -19,7 +19,7 @@ Ao final exibe um resumo com quantos casos passaram e o tempo de cada um.
 ## Estrutura
 
 ```
-peer.py          # implementação principal
-tests.py     # estudos de caso automatizados
+peer.py               # implementação principal
+tests.py              # estudos de caso automatizados
 peer_<porta>_blocks/  # blocos temporários de cada peer (criado automaticamente)
 ```
